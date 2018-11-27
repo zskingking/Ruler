@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Ruler">
+        <attr name="scaleTotalCount" format="integer"/>
+        <attr name="startScale" format="integer"/>
+        <attr name="initScrollX" format="integer"/>
+        <attr name="rulerTextSize" format="dimension"/>
+        <attr name="indicatorColor" format="color"/>
+        <attr name="scaleColor" format="color"/>
+    </declare-styleable>
+</resources>
